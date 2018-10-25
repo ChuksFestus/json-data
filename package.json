@@ -1,0 +1,15 @@
+{
+  "name": "json-data",
+  "version": "1.0.0",
+  "description": "fake json api",
+  "main": "index.js",
+  "repository": "https://github.com/ChuksFestus/json-data.git",
+  "author": "Chuks Festus <cutogu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}

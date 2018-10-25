@@ -1,0 +1,264 @@
+{
+  "users": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Kunle",
+        "last": "Adebite"
+      },
+      "location": {
+        "street": "104 Seun cr",
+        "city": "lekki",
+        "state": "lagos",
+        "country": "nigeria"
+      },
+      "email": "kunlebite@fakemail.com",
+      "work": {
+        "title": "manager",
+        "company": "mac inc"
+      },
+      "phone": "+2348155667654",
+      "dob": {
+        "year": 1966,
+        "month": 3,
+        "day": 30
+      },
+      "picture": "https://images.pexels.com/photos/462680/pexels-photo-462680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "aisha",
+        "last": "john"
+      },
+      "location": {
+        "street": "36 danjuma str",
+        "city": "kukere",
+        "state": "kaduna",
+        "country": "nigeria"
+      },
+      "email": "a.john@fakemail.com",
+      "work": {
+        "title": "designer",
+        "company": "ola-designs"
+      },
+      "phone": "+2347056533345",
+      "dob": {
+        "year": 1996,
+        "month": 12,
+        "day": 3
+      },
+      "picture": "https://images.pexels.com/photos/935985/pexels-photo-935985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "alake",
+        "last": "badimus"
+      },
+      "location": {
+        "street": "102 broad str",
+        "city": "marina",
+        "state": "lagos",
+        "country": "nigeria"
+      },
+      "email": "alake@fakemail.com",
+      "work": {
+        "title": "fashion designer",
+        "company": "badimus designs"
+      },
+      "phone": "+2349088665544",
+      "dob": {
+        "year": 1991,
+        "month": 2,
+        "day": 20
+      },
+      "picture": "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "dr",
+        "first": "jabari",
+        "last": "M'Baku"
+      },
+      "location": {
+        "street": "101 gorilla str",
+        "city": "man-ape",
+        "state": "crystal forest",
+        "country": "wakanda"
+      },
+      "email": "jabari@wakanda.com",
+      "work": {
+        "title": "ceo",
+        "company": "white apes"
+      },
+      "phone": "+9886084569082",
+      "dob": {
+        "year": 1990,
+        "month": 3,
+        "day": 29
+      },
+      "picture": "https://images.pexels.com/photos/175696/pexels-photo-175696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "abuya",
+        "last": "abasi"
+      },
+      "location": {
+        "street": "3 shasha str",
+        "city": "luo",
+        "state": "nairobi",
+        "country": "kenya"
+      },
+      "email": "abuya@fakemail.com",
+      "work": {
+        "title": "software developer",
+        "company": "anthelops"
+      },
+      "phone": "+2548065694005",
+      "dob": {
+        "year": 1996,
+        "month": 1,
+        "day": 22
+      },
+      "picture": "https://images.pexels.com/photos/813940/pexels-photo-813940.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "Busar",
+        "last": "Kwanzaa"
+      },
+      "location": {
+        "street": "12 ariwo str",
+        "city": "brenene",
+        "state": "nairobi",
+        "country": "kenya"
+      },
+      "email": "busar@fakemail.com",
+      "work": {
+        "title": "lead developer",
+        "company": "three horns"
+      },
+      "phone": "+2547011223344",
+      "dob": {
+        "year": 1996,
+        "month": 5,
+        "day": 22
+      },
+      "picture": "https://images.pexels.com/photos/235355/pexels-photo-235355.png?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "asha",
+        "last": "james"
+      },
+      "location": {
+        "street": "99 uzor str",
+        "city": "nkpor",
+        "state": "anambra",
+        "country": "nigeria"
+      },
+      "email": "asha@fakemail.com",
+      "work": {
+        "title": "buisness developer",
+        "company": "masters craft"
+      },
+      "phone": "+23480856545",
+      "dob": {
+        "year": 1986,
+        "month": 11,
+        "day": 2
+      },
+      "picture": "https://images.pexels.com/photos/794064/pexels-photo-794064.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "amaka",
+        "last": "chijioke"
+      },
+      "location": {
+        "street": "99 ezagu str",
+        "city": "onisha",
+        "state": "anambra",
+        "country": "nigeria"
+      },
+      "email": "chiamaka@fakemail.com",
+      "work": {
+        "title": "backend developer",
+        "company": "slick tech"
+      },
+      "phone": "+2348056578763",
+      "dob": {
+        "year": 1994,
+        "month": 4,
+        "day": 12
+      },
+      "picture": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "john",
+        "last": "ayo"
+      },
+      "location": {
+        "street": "48 kings str",
+        "city": "apapa",
+        "state": "lagos",
+        "country": "nigeria"
+      },
+      "email": "johnayo@fakemail.com",
+      "work": {
+        "title": "lead designer",
+        "company": "one tech"
+      },
+      "phone": "+2348056540450",
+      "dob": {
+        "year": 1999,
+        "month": 9,
+        "day": 23
+      },
+      "picture": "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "dr",
+        "first": "kofi",
+        "last": "jelani"
+      },
+      "location": {
+        "street": "34 leo str",
+        "city": "sowe",
+        "state": "lagos",
+        "country": "nigeria"
+      },
+      "email": "kofini@fakemail.com",
+      "work": {
+        "title": "cto",
+        "company": "full tech"
+      },
+      "phone": "+2349088776655",
+      "dob": {
+        "year": 1986,
+        "month": 1,
+        "day": 22
+      },
+      "picture": "https://images.pexels.com/photos/999267/pexels-photo-999267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100"
+    }
+  ]
+}
